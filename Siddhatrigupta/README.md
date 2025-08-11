@@ -9,7 +9,7 @@
 - 🔍 **Passionate about** combining Finance, Technology, and Data to solve real-world business problems.
 - 🌱 Currently learning **Python for Data Analysis** and **Power BI for Dashboarding**.
 - ⚡ Fun fact: I enjoy making finance workflows run *faster than coffee kicks in* ☕
-- 📧 Reach me at: siddhatrigupta05401@gmail.com (mailto:youremail@example.com)
+- 📧 Reach me at: siddhatrigupta05401@gmail.com
 
 ---
 
