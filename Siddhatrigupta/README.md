@@ -14,7 +14,7 @@
 ---
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/siddhatri-gupta-aa25291ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([linkedin.com/in/siddhatri-gupta-aa25291ab](https://www.linkedin.com/in/siddhatri-gupta-aa25291ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1rpHNP7gSluUD%2F57AaGX2Q%3D%3D))
 
 ---
 
